@@ -152,10 +152,6 @@ body {
   transition: fill cubic-bezier(0.4, 0, 0.2, 1) 250ms;
 }
 
-.header-contacts-icon:hover .header-contacts-link {
-  color: var(--accent-color);
-}
-
 /**
   |============================
   | Hero
